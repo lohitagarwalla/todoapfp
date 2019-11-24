@@ -1,16 +1,19 @@
 # todoapp
 
 A new Flutter application.
+This app help to keep track of your tasks.
 
-## Getting Started
+## What you can to with this app?
 
-This project is a starting point for a Flutter application.
+Add a new task
+delete a new task
+View all task
+Mark a task (done or not done)
 
-A few resources to get you started if this is your first Flutter project:
+## How this app is build
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- I started with a flutter course by Angela Yu in Udemy.  From that course i learned how to build beautiful, interactive UIs. Most of the UI part is build using that course
+- Then I started with database integration by reading blogs and flutter documentation.
+- Finally i learned how to integrate sqflite in flutter app and how to use it to store text in database.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
