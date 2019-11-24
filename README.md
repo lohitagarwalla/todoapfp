@@ -1,7 +1,7 @@
 # todoapp
 
 A new Flutter application.
-This app help to keep track of your tasks.
+This app helps keep track of your tasks.
 
 ## What you can to with this app?
 
